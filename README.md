@@ -16,7 +16,7 @@ Compatible with Windows 10/11
 
 ### <a id="usage"></a> :toolbox: - Usage
 
-1. Install [Python](www.python.org) and add it to PATH
+1. Install [Python](https://www.python.org) and add it to PATH
 2. Install the [latest release](https://github.com/DraxFM/Scribd-Bypasser/releases/latest)
 3. Exctract the downloaded zip file
 4. Run **ScribdBypasser.py**

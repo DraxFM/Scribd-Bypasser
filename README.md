@@ -1,3 +1,6 @@
+> [!NOTE]
+> This Project has been archived as Scribd has sunset the traditional document blurring when not being signed in, making this program technically obsolete. As of 09/17/2025 you can still locally download the webpage to your device with all pages unblurred but this might break anytime in the future. As of right now this project will not receive any further support or updates. Thank you for using!
+
 > [!CAUTION]
 > This tool is comparable to a web scraper and does not use any illegit methods to achieve its goals!
 
